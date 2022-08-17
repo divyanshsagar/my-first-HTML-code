@@ -1,2 +1,1 @@
-# my-first-HTML-code
-Webpage link: https://divyanshsagar.github.io/my-first-HTML-code/
+# my-first-HTML-code-link: https://divyanshsagar.github.io/my-first-HTML-code/
